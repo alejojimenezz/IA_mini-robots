@@ -42,7 +42,9 @@ Es una herramienta de procesamiento y análisis, con capacidad de acceso y recop
 
 ## Vea el video que se encuentra en [https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s](https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s). Haga un análisis de lo discutido en el documento con respecto al video.
 
+Aunque puede ser emocionante hablar de los avances que pueden ser realizados en la tecnología, en el video se hacen puntos válidos sobre la seguridad, motivación,  moralidad, de algunos de estos avances, como los mencionados en el video.
 
+A fin de cuentas, avances como los robots que se autoreproducen, y robots con caras humanas, no pueden ser tomados a la ligera por lo mismo que es mencionado en el video, pero mientras tengan un fundamento bien argumentado para ser desarrollados, si se deben tener estándares y regulaciones para evitar malas prácticas de uso.
 
 ## Haga un resumen sobre Cosmos de NVIDIA.
 
