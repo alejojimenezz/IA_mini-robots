@@ -48,7 +48,11 @@ A fin de cuentas, avances como los robots que se autoreproducen, y robots con ca
 
 ## Haga un resumen sobre Cosmos de NVIDIA.
 
+Cosmos de NVIDIA es una plataforma disponible en GitHub para desarrollar modelos de IA que pueden ser aplicados para robótica y sistemas autónomos; ofreciendo 3 tipos de modelos:
 
+- **Predicción:** Generación de datos y evaluación de políticas.
+- **Transferencia:** Mejora de datos.
+- **Razonamiento:** Curación de datos, planeación en robótica, y agentes de IA para política y visión.
 
 ## Investigue sobre los planes del gobierno con respecto a la IA.
 
