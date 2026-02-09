@@ -38,8 +38,15 @@
 
 ## Dé una definición propia de inteligencia artificial.
 
-
+Es una herramienta de procesamiento y análisis, con capacidad de acceso y recopilación de recursos, tanto locales como remotos, para la resolución de problemas.
 
 ## Vea el video que se encuentra en [https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s](https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s). Haga un análisis de lo discutido en el documento con respecto al video.
+
+
+
 ## Haga un resumen sobre Cosmos de NVIDIA.
+
+
+
 ## Investigue sobre los planes del gobierno con respecto a la IA.
+
