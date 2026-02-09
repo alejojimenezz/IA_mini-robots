@@ -56,3 +56,6 @@ Cosmos de NVIDIA es una plataforma disponible en GitHub para desarrollar modelos
 
 ## Investigue sobre los planes del gobierno con respecto a la IA.
 
+1. **CONPES 4144:** Es la política nacional de Inteligencia Artificial, la cual busca fomentar la investigación, desarrollo, adopción, y uso ético y sostenible de esta tecnología.
+2. **Convocatorias:** Proyectos y capacitaciones, por parte del Ministerio de Ciencia, Tecnología e Innovación, y el Ministerio de Tecnologías de la Información y las Comunicaciones.
+3. **Propuestas de ley:** Desarrollos en la regulación de sistemas de IA para su debido uso y fomentación.
